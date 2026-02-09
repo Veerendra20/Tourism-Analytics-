@@ -5,10 +5,10 @@ The Tourism Analytics Dashboard is a data-driven project designed to analyze tou
 
 🎯 Objectives:
 
-Analyze tourism trends across regions
-Identify peak travel seasons
-Understand visitor distribution
-Track revenue and popularity metrics
+Analyze tourism trends across regions.
+Identify peak travel seasons.
+Understand visitor distribution.
+Track revenue and popularity metrics.
 Provide insights for tourism planning and strategy.
 
 🛠 Tools & Technologies Used:
@@ -28,14 +28,14 @@ Destination popularity varies by traveler preferences.
 💡 Business Value:
 
 This project demonstrates how analytics can:
-Improve tourism planning
-Identify high-demand destinations
-Optimize seasonal resource allocation
-Support data-driven decisions
+Improve tourism planning.
+Identify high-demand destinations.
+Optimize seasonal resource allocation.
+Support data-driven decisions.
 
 ⭐ Future Improvements:
 
-Real-time tourism data integration
-Predictive trend modeling
-Advanced traveler segmentation
-Interactive web deployment
+Real-time tourism data integration.
+Predictive trend modeling.
+Advanced traveler segmentation.
+Interactive web deployment.
