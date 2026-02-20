@@ -39,3 +39,6 @@ Real-time tourism data integration.
 Predictive trend modeling.
 Advanced traveler segmentation.
 Interactive web deployment.
+
+Project Link:
+https://app.powerbi.com/view?r=eyJrIjoiM2E5MWUxMTgtYzhiOC00NGNjLWI4MTktNzc3YTIyNmNhNzQ2IiwidCI6IjM1ODU1YzliLTZkMGYtNDQ0Ny04NDZlLTU4OThlMTU2MmVkMCJ9
